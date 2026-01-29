@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import pic4 from "../../assets/image/about/pic4.jpg";
 import pic5 from "../../assets/image/about/pic5.jpg";
 import pic6 from "../../assets/image/about/pic6.jpg";
@@ -25,12 +25,15 @@ function About() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4 className="subheading">Front-End Development</h4>
+                  <h4 className="subheading">Front-End&back-end Development</h4>
                 </div>
                 <div className="timeline-body">
                   <p className="text-muted">
-                    Building responsive and dynamic web applications using HTML,
-                    CSS, JavaScript, and frameworks.
+                    Building responsive and dynamiBuilding responsive and
+                    dynamic web applications using HTML, CSS, JavaScript, and
+                    React for the front end, with Node.js and PHP for the back
+                    end.c web applications using HTML, CSS, JavaScript, and
+                    frameworks.
                   </p>
                 </div>
               </div>
@@ -88,4 +91,4 @@ function About() {
   );
 }
 
-export default About
+export default About;

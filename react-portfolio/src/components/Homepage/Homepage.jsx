@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import portfolio from "../../assets/image/other/PROFILE.jpg";
-import resume from "../../../public/Resume.pdf"
+import resume from "../../../public/Resume.pdf";
 
 function Homepage() {
   const typedRef = useRef(null);
