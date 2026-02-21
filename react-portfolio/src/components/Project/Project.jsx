@@ -7,6 +7,7 @@ import pic5 from "../../assets/image/project/pic8.png";
 // import pic6 from "../../assets/image/project/pic9.png";
 import pic7 from "../../assets/image/project/pic7.png";
 import pic9 from "../../assets/image/project/pic9.jpg";
+import pic10 from "../../assets/image/project/pic10.jpg";
 
 function Project() {
   return (
@@ -62,12 +63,14 @@ function Project() {
                       <i className="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img className="img-fluid" src={pic7} alt="Netflix Clone" />
+                  <img className="img-fluid" src={pic10} alt="Netflix Clone" />
                 </a>
                 <div className="portfolio-caption">
-                  <div className="portfolio-caption-heading">Netflix Clone</div>
+                  <div className="portfolio-caption-heading">
+                    Techtonic-forum
+                  </div>
                   <a
-                    href="https://github.com/kalkidan1919/Netflix.git"
+                    href="https://github.com/kalkidan1919/Techtonic-forums.git"
                     className="btn btn-warning btn-sm mt-2"
                   >
                     View here
@@ -91,7 +94,7 @@ function Project() {
                   <img className="img-fluid" src={pic9} alt="Snake Game" />
                 </a>
                 <div className="portfolio-caption">
-                  <div className="portfolio-caption-heading">Bbu-Ai</div>
+                  <div className="portfolio-caption-heading">Dbu-Ai</div>
                   <a
                     href="https://github.com/kalkidan1919/Dbu_Ai"
                     className="btn btn-warning btn-sm mt-2"
@@ -147,14 +150,12 @@ function Project() {
                       <i className="fas fa-plus fa-3x"></i>
                     </div>
                   </div>
-                  <img className="img-fluid" src={pic5} alt="Apple Home Page" />
+                  <img className="img-fluid" src={pic7} alt="Apple Home Page" />
                 </a>
                 <div className="portfolio-caption">
-                  <div className="portfolio-caption-heading">
-                    Apple Home Page
-                  </div>
+                  <div className="portfolio-caption-heading">Netflix clone</div>
                   <a
-                    href="https://github.com/kalkidan1919/apple_website.git"
+                    href="https://github.com/kalkidan1919/Netflix.git"
                     className="btn btn-warning btn-sm mt-2"
                   >
                     View here
